@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Julia Portfolio Logo" width="120" />
-
-<br /><br />
-
 ## 👩‍💻 Julia – Personal Portfolio  
 A clean, modern, and fully responsive **Personal Portfolio Website UI** built using HTML, CSS, and JavaScript.  
 Designed to showcase skills, projects, experience, and personal branding with a professional and elegant layout.
