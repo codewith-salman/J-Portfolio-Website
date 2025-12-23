@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 ## 👩‍💻 Julia – Personal Portfolio  
@@ -39,7 +38,6 @@ Perfect for:
 - Projects and skills showcase  
 - Smooth scrolling and hover effects  
 - Well-structured sections and spacing  
-- Easy to customize for any individual  
 
 ---
 
