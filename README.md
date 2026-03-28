@@ -4,11 +4,12 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/julia-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/julia-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/julia-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/J-Portfolio-Website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/J-Portfolio-Website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/J-Portfolio-Website?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://j-portfolio-website.vercel.app/)
+
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
@@ -17,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="J%20Portfolio%20Website/assets/images/desktop.png" alt="Julia Portfolio Logo" width="120"/>
+<img src="J%20Portfolio%20Website/assets/favicon.svg" alt="Julia Portfolio Logo" width="120"/>
 
 <br />
 <br />
