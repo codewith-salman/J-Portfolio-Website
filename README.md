@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="J%20Portfolio%20Website/assets/favicon.svg" alt="Julia Portfolio Logo" width="120"/>
+<img src="J%20Portfolio%20Website/favicon.svg" alt="Julia Portfolio Logo" width="120"/>
 
 <br />
 <br />
