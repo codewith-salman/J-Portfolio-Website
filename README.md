@@ -60,8 +60,7 @@ From the hero introduction to project showcases and contact sections, Julia Port
 Ideal for:
 - Developer and designer portfolios  
 - Personal branding websites  
-- Freelancer showcase pages  
-- Resume-style web portfolios  
+- Freelancer showcase pages    
 - UI/UX practice projects 
 
 ---
