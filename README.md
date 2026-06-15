@@ -72,7 +72,6 @@ Ideal for:
 - Clean and modern UI design  
 - Hero section with personal introduction  
 - Projects and skills showcase  
-- Smooth scrolling and hover effects  
 - Well-structured sections and spacing  
 
 ---
