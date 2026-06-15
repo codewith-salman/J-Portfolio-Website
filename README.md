@@ -21,7 +21,6 @@
 <img src="J%20Portfolio%20Website/favicon.svg" alt="Julia Portfolio Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">👩‍💻 Julia – Personal Portfolio</h1>
 
@@ -63,9 +62,7 @@ Ideal for:
 - Personal branding websites  
 - Freelancer showcase pages  
 - Resume-style web portfolios  
-- UI/UX practice projects  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- UI/UX practice projects 
 
 ---
 
@@ -78,8 +75,6 @@ Ideal for:
 - Smooth scrolling and hover effects  
 - Well-structured sections and spacing  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -87,8 +82,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
